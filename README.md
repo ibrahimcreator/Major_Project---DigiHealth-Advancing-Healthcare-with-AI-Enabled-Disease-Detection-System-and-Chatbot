@@ -56,7 +56,7 @@ This capstone project was developed during my final semester at **Bharath Univer
 
 ## 📫 About Me
 
-Hi 👋, I'm **Rahim** – a **B.Tech CSE Graduate (AI specialization, IBM Certified)**, passionate about building AI solutions that make a real-world impact. I'm actively looking for opportunities in:
+Hi 👋, I'm **SYED IBRAHIM A** – a **B.Tech CSE Graduate (AI specialization, IBM Certified)**, passionate about building AI solutions that make a real-world impact. I'm actively looking for opportunities in:
 
 * 🧑‍💻 Software Development
 * 🤖 AI/ML & Data Analytics
